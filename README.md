@@ -6,7 +6,7 @@ Be advised it is not free of mathematical inconsistency, this was created just f
 **More information:**  
 [KSP Wiki Orbital and physics terms](https://wiki.kerbalspaceprogram.com/wiki/Orbital_and_physics_terms)  
 [KSP Wiki Advanced Rocket Design](https://wiki.kerbalspaceprogram.com/wiki/Tutorial:Advanced_Rocket_Design)  
-[KSP Wiki Thrust-to-weight ratio (TWR)](https://wiki.kerbalspaceprogram.com/wiki/Thrust-to-weight_ratio/it)  
+[KSP Wiki Thrust-to-weight ratio (TWR)](https://wiki.kerbalspaceprogram.com/wiki/Thrust-to-weight_ratio)  
 
 **Additional information (which partly influences the math in this sheet):**  
 [KSP Wiki Atmosphere (and drag)](https://wiki.kerbalspaceprogram.com/wiki/Atmosphere)  
